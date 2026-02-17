@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "One Last Breath",
+  "base_artist": "Creed",
+  "createdAt": "2026-02-17T09:37:23.357944Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "One Last Breath",
+      "artist": "Creed",
+      "has_synced": true,
+      "path": "select/01_One_Last_Breath_Creed.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "One Last Breath (Explicit)",
+      "artist": "Creed",
+      "has_synced": true,
+      "path": "select/02_One_Last_Breath_(Explicit)_Creed.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "One Last Breath",
+      "artist": "Creed",
+      "has_synced": true,
+      "path": "select/03_One_Last_Breath_Creed.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "One Last Breath",
+      "artist": "Blue Stahli",
+      "has_synced": true,
+      "path": "select/04_One_Last_Breath_Blue_Stahli.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Take One Last Breath",
+      "artist": "Abandon All Ships",
+      "has_synced": true,
+      "path": "select/05_Take_One_Last_Breath_Abandon_All_Ships.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "One Last Breath (Radio Version)",
+      "artist": "Creed",
+      "has_synced": true,
+      "path": "select/06_One_Last_Breath_(Radio_Version)_Creed.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "One Last Breath",
+      "artist": "Threat Signal",
+      "has_synced": true,
+      "path": "select/07_One_Last_Breath_Threat_Signal.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "One Last Breath",
+      "artist": "Creed",
+      "has_synced": true,
+      "path": "select/08_One_Last_Breath_Creed.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "One Last Breath",
+      "artist": "Creed",
+      "has_synced": true,
+      "path": "select/09_One_Last_Breath_Creed.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "One Last Breath",
+      "artist": "Maria Elena Kyriakou",
+      "has_synced": false,
+      "path": "select/10_One_Last_Breath_Maria_Elena_Kyriakou.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "One Last Breath (Eurovision 2015 - Greece)",
+      "artist": "Maria-Elena Kyriakou",
+      "has_synced": true,
+      "path": "select/11_One_Last_Breath_(Eurovision_2015_-_Greece)_Maria-Elena_Kyriakou.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "One Last Breath (Greece)",
+      "artist": "Maria Elena Kyriakou",
+      "has_synced": true,
+      "path": "select/12_One_Last_Breath_(Greece)_Maria_Elena_Kyriakou.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "One Last Breath",
+      "artist": "Creed",
+      "has_synced": true,
+      "path": "select/13_One_Last_Breath_Creed.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "One Last Breath",
+      "artist": "Example",
+      "has_synced": true,
+      "path": "select/14_One_Last_Breath_Example.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Drowning (One Last Breath)",
+      "artist": "Endwell",
+      "has_synced": true,
+      "path": "select/15_Drowning_(One_Last_Breath)_Endwell.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "One Last Breath",
+      "artist": "Distorted",
+      "has_synced": false,
+      "path": "select/16_One_Last_Breath_Distorted.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "One Last Breath",
+      "artist": "Creed",
+      "has_synced": false,
+      "path": "select/pl_01_One_Last_Breath_Creed.txt"
+    }
+  ]
+}
